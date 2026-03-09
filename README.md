@@ -1,4 +1,4 @@
-# KTP_recognition
+# Indonesian ID Recognition
 Making models for identifying an image of Indonesian Government ID.
 
 KTP Recognition Models:
